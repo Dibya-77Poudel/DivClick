@@ -1,0 +1,14 @@
+.smallDiv {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+.changediv {
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+    transition: all 0.2s ease;
+}
